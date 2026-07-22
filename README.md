@@ -30,6 +30,10 @@ Member of SMPTE (Society of Motion Picture and Television Engineers) https://smp
 Member of ISU (International Stereoscopic Union) https://isu3d.org
 ---
 
+## 🏅 Global Recognition
+* **Lumiere Award Winner:** Honored by the **Advanced Imaging Society** for outstanding achievements in stereoscopic 3D filmmaking (*Nepal* documentary). Read the full case study: [Lumiere Award for Stereoscopic 3D Filmmaking](https://lab3d.kw.ac.kr/lumiere-award-for-stereoscopic-3d-filmmaking/)
+
+
 ## 🌐 Connect With Us
 
 * **Website:** [lab3d.kw.ac.kr](https://lab3d.kw.ac.kr)
