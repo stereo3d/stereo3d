@@ -1,6 +1,6 @@
 # 🎬 3D Film Lab | Kwangwoon University
 
-Welcome to the official open-source software and tools repository for the **3D Film Lab** at Kwangwoon University. We specialize in advanced immersive media production, immersive convergent content, stereoscopic 3D pipelines, and cutting-edge virtual production workflows.
+Welcome to the official open-source software and tools repository for the **3D Film Lab** at Kwangwoon University. We provide reseach for foundamentals in immersive technologies. We specialize in advanced immersive media production, immersive convergent content, stereoscopic 3D pipelines, and cutting-edge virtual production workflows.
 
 🔗 **Main Hub:** [lab3d.kw.ac.kr](https://lab3d.kw.ac.kr)  
 📩 **Contact & Collaboration:** [3D Film Lab Contact](https://lab3d.kw.ac.kr)
@@ -25,6 +25,9 @@ Our lab bridges the gap between academic R&D and live industry deployment throug
 * **Spatial Computing:** Creating optimized stereoscopic delivery frameworks for modern MR/XR hardware displays.
 * **Industry Training:** Organizing major cinematic technical workshops, including our recurring masterclasses at the **Busan International Short Film Festival (BISFF)** and the **MBC High Tech Center**.
 
+---
+Member of SMPTE (Society of Motion Picture and Television Engineers) https://smpte.org
+Member of ISU (International Stereoscopic Union) https://isu.org
 ---
 
 ## 🌐 Connect With Us
