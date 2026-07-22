@@ -27,7 +27,7 @@ Our lab bridges the gap between academic R&D and live industry deployment throug
 
 ---
 Member of SMPTE (Society of Motion Picture and Television Engineers) https://smpte.org
-Member of ISU (International Stereoscopic Union) https://isu.org
+Member of ISU (International Stereoscopic Union) https://isu3d.org
 ---
 
 ## 🌐 Connect With Us
