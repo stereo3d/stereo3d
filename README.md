@@ -3,7 +3,7 @@
 Welcome to the official open-source software and tools repository for the **3D Film Lab** at Kwangwoon University. We provide reseach for foundamentals in immersive technologies. We specialize in advanced immersive media production, immersive convergent content, stereoscopic 3D pipelines, and cutting-edge virtual production workflows.
 
 🔗 **Main Hub:** [lab3d.kw.ac.kr](https://lab3d.kw.ac.kr)  
-📩 **Contact & Collaboration:** [3D Film Lab Contact](https://lab3d.kw.ac.kr) 
+📩 **Contact & Collaboration:** [3D Film Lab Contact](https://lab3d.kw.ac.kr)  
 🎬 **Contact Person:** [Alaric Hamacher](https://lab3d.kw.ac.kr)
 
 ---
