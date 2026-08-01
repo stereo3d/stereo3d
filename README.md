@@ -4,7 +4,7 @@ Welcome to the official open-source software and tools repository for the **3D F
 
 🔗 **Main Hub:** [lab3d.kw.ac.kr](https://lab3d.kw.ac.kr)  
 📩 **Contact & Collaboration:** [3D Film Lab Contact](https://lab3d.kw.ac.kr) 
-🎬 **Contact Person:** Alaric Hamacher
+🎬 **Contact Person:** [Alaric Hamacher](https://lab3d.kw.ac.kr)
 
 ---
 
