@@ -38,5 +38,5 @@ Member of ISU (International Stereoscopic Union) https://isu3d.org
 ## 🌐 Connect With Us
 
 * **Website:** [lab3d.kw.ac.kr](https://lab3d.kw.ac.kr)
-* **YouTube:** [3D Film Lab Channel](https://youtube.com/3dfilmlab)
+* **YouTube:** [3D Film Lab Channel](https://www.youtube.com/@3dfilmlab)
 * **Latest News:** [Lab Project Archive](https://lab3d.kw.ac.kr/category/news/)
